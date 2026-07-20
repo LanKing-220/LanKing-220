@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm LanKing 👋
+# Hi, I'm Shengji Zheng 👋
 
 ### Computer Science Student · Causal Inference · Machine Learning
 
