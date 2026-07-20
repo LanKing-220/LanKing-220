@@ -2,17 +2,17 @@
 
 # Hi, I'm Shengji Zheng 👋
 
-### Incoming M.S. Student · Causal Inference · Prior-Data Fitted Networks · Tabular Foundation Models
+### Incoming M.S. Student · Causal Effect Estimation · Prior-Data Fitted Networks · Tabular Foundation Models
 
 </div>
 
 ## About Me
 
-I am a Computer Science student at **Guangdong University of Technology**. My current interests lie at the intersection of **causal inference**, **in-context learning**, and **foundation models for tabular data**.
+I am a Computer Science student at **Guangdong University of Technology**. My current interests lie at the intersection of **causal effect estimation**, **in-context learning**, and **foundation models for tabular data**.
 
 - 🎓 B.Sc. in Computer Science and Technology, 2022–2026
 - 📚 Incoming M.S. student at Guangdong University of Technology, 2026–2029
-- 🔬 Interested in causal effect estimation, causal sensitivity analysis, PFNs, TabPFN, and tabular foundation models
+- 🔬 Interested in treatment effect estimation, causal sensitivity analysis, PFNs, TabPFN, and tabular foundation models
 - 💻 Developing research-oriented machine learning systems with Python and PyTorch
 
 ## Education
@@ -24,11 +24,11 @@ I am a Computer Science student at **Guangdong University of Technology**. My cu
 
 ## Research Interests
 
-- **Causal inference:** causal effect estimation, CATE/HTE estimation, observational studies
+- **Causal effect estimation:** average treatment effects, CATE/HTE estimation, potential outcomes, and observational studies
 - **Causal sensitivity analysis:** robustness to unmeasured confounding and partial-identification bounds
-- **Prior-Data Fitted Networks:** PFNs, TabPFN, amortized inference, in-context learning
+- **Prior-Data Fitted Networks:** PFNs, TabPFN, amortized inference, and in-context learning
 - **Tabular foundation models:** representation learning and foundation models for structured data
-- **Synthetic causal data:** structural causal models, DAG generation, and counterfactual outcomes
+- **Synthetic causal data:** structural causal models, DAG generation, treatment mechanisms, and counterfactual outcomes
 
 ## Current Focus
 
@@ -39,7 +39,7 @@ I am a Computer Science student at **Guangdong University of Technology**. My cu
 
 ## Research Keywords
 
-`causal inference` · `causal effect estimation` · `heterogeneous treatment effects` · `causal sensitivity analysis` · `Prior-Data Fitted Networks` · `TabPFN` · `in-context learning` · `tabular foundation models`
+`causal effect estimation` · `treatment effect estimation` · `heterogeneous treatment effects` · `CATE` · `causal sensitivity analysis` · `Prior-Data Fitted Networks` · `TabPFN` · `in-context learning` · `tabular foundation models`
 
 ## Technical Skills
 
@@ -66,5 +66,5 @@ I am a Computer Science student at **Guangdong University of Technology**. My cu
 ---
 
 <div align="center">
-  <i>Learning causal structure, building reliable models.</i>
+  <i>Estimating causal effects, building reliable models.</i>
 </div>
